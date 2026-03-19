@@ -30,7 +30,7 @@ Side Projects       →   C++ tools, web experiments, whatever catches my eye
 ### 🚀 Currently
 
 - 🏛 **M.Sc. Computer Science** — Technische Universität Hamburg
-- ⚙️ **[C++ Order Book Engine](https://github.com/Siddhant-sarkar/Orderbook)** — building Tzadiko/Orderbook from scratch
+- ⚙️ **[C++ Order Book Engine](https://github.com/Siddhant-sarkar/Orderbook)** — building High Performance Orderbook from scratch
 - 📐 Grinding **Codeforces** & **CodeChef** problems daily
 - 🌐 Maintaining **[itsmesonny.vercel.app](https://itsmesonny.vercel.app)**
 

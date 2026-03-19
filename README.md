@@ -1,41 +1,85 @@
-<h1 align="center">Hi 👋, I'm Siddhant Sarkar</h1>
-<h3 align="center">I am a Student,Developer and Competitive Programmer,who learns new things before sleep.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhant-sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="siddhant-sarkar" /> </p>
+# Sonny Sarkar
 
-<p align="left"> <a href="https://twitter.com/bobby_boy999" target="blank"><img src="https://img.shields.io/twitter/follow/bobby_boy999?logo=twitter&style=for-the-badge" alt="bobby_boy999" /></a> </p>
+*Quant C++ Developer · Competitive Programmer · M.Sc. Data Science @ TU Hamburg*
 
-- 🔭 I’m currently working on **Competitive Programming**
+[![Website](https://img.shields.io/badge/itsmesonny.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://itsmesonny.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhant-sarkar-71a6b61b9)
+[![Twitter](https://img.shields.io/badge/@bobby__boy999-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/bobby_boy999)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:siddhant.sarkar999@gmail.com)
 
-- 🌱 I’m currently learning **Bootstrap**
+</div>
 
-- 🤝 I’m looking for help with **Web Development**
+---
 
-- 👨‍💻 All of my projects are available at [itsyoursarkar.me](itsyoursarkar.me)
+I'm a developer obsessed with **performance and precision** — whether that's shaving microseconds off an order book or finding the optimal substructure in a competitive problem. Currently doing my Master's in Computer Science at **Technische Universität Hamburg**.
 
-- 📝 I regularly write articles on [itsyoursarkar.me](itsyoursarkar.me)
+---
 
-- 💬 Ask me about **Competitive Programming, Data-Structures and Algorithms**
+### 🔧 What I build
 
-- 📫 How to reach me **siddhant.sarkar999@gmail.com**
+```
+Quant Systems       →   order books, execution engines, market microstructure
+Competitive Prog    →   DSA, graph theory, dynamic programming, segment trees
+Side Projects       →   C++ tools, web experiments, whatever catches my eye
+```
 
-- ⚡ Fun fact **I play guitar and a Shuttler**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bobby_boy999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bobby_boy999" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/siddhant-sarkar-71a6b61b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhant-sarkar-71a6b61b9" height="30" width="40" /></a>
-<a href="https://instagram.com/it's_your_sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="it's_your_sarkar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/siddhant_9999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="siddhant_9999" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sid_zen_sarkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sid_zen_sarkar" height="30" width="40" /></a>
-<a href="https://discord.gg/It's Your Sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="It's Your Sarkar" height="30" width="40" /></a>
-</p>
+### 🚀 Currently
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+- 🏛 **M.Sc. Computer Science** — Technische Universität Hamburg
+- ⚙️ **[C++ Order Book Engine](https://github.com/Siddhant-sarkar/Orderbook)** — building Tzadiko/Orderbook from scratch
+- 📐 Grinding **Codeforces** & **CodeChef** problems daily
+- 🌐 Maintaining **[itsmesonny.vercel.app](https://itsmesonny.vercel.app)**
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant-sarkar&show_icons=true&locale=en&layout=compact" alt="siddhant-sarkar" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhant-sarkar&show_icons=true&locale=en" alt="siddhant-sarkar" /></p>
+### 🧠 Competitive Programming
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant-sarkar&" alt="siddhant-sarkar" /></p> -->
+[![Codeforces](https://img.shields.io/badge/Codeforces-sid__zen__sarkar-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/__V3NU5)
+
+---
+
+### 🛠 Stack
+
+**Core**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+
+**Tools & Env**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white)
+
+**Web**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Siddhant-sarkar&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-sarkar&layout=compact&hide_border=true&theme=default)
+
+</div>
+
+---
+
+### ⚡ Beyond the terminal
+
+Guitar player. Badminton enthusiast. Learns something new before sleep — every night.
+
+---
+
+<div align="center">
+<sub>Hamburg, Germany 🇩🇪</sub>
+</div>

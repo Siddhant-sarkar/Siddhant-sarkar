@@ -38,7 +38,7 @@ Side Projects       →   C++ tools, web experiments, whatever catches my eye
 
 ### 🧠 Competitive Programming
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-sid__zen__sarkar-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/__V3NU5)
+[![Codeforces](https://img.shields.io/badge/Codeforces-anonymous_134-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](anonymous_134)
 
 ---
 
